@@ -1,5 +1,5 @@
 
-<h1>Apresentação do Repositório - Gerenciamento de Filmes com Dapper e SQL</h1>h1>
+<h1>Apresentação do Repositório - Gerenciamento de Filmes com Dapper e SQL</h1>
 Bem-vindo ao Repositório de Gerenciamento de Filmes! Aqui, você encontrará uma API poderosa para cadastro, edição e exclusão de filmes. Este projeto utiliza o Dapper para comunicação eficiente com um banco de dados SQL, proporcionando uma solução robusta para o gerenciamento de sua coleção de filmes.
 
 Objetivo
